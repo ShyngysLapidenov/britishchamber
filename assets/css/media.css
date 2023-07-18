@@ -72,7 +72,7 @@
       height: 7vh;
     }
   
-    #mail-icon2 {
+    #mail-icon {
       filter: brightness(0);
       width: 41px;
       position: relative;
@@ -81,12 +81,12 @@
       height: 41px;
     }
   
-    #phone-icon2 {
+    #phone-icon {
       filter: brightness(0);
       width: 35px;
       height: 30px;
       position: relative;
-      top: 25.5vh !important;
+      top: 25.7vh !important;
       left: 4.5rem;
     }
   
@@ -156,13 +156,13 @@
     }
   
     .slider-member .news-heading {
-      top: 33%;
+      top: 29%;
       font-size: 0.9rem;
       font-weight: 650;
     }
   
     .slider-member a {
-      top: 35.5% !important;
+      top: 31.3% !important;
       text-decoration: underline;
       font-size: 0.8rem !important;
     }
@@ -430,6 +430,25 @@
     padding: 0.3rem 0.5rem !important;
     padding-bottom: 1rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(0);
+    width: 41px;
+    position: relative;
+    top: 32vh;
+    left: 1.2rem;
+    height: 41px;
+  }
+
+  #phone-icon2 {
+    filter: brightness(0);
+    width: 35px;
+    height: 30px;
+    position: relative;
+    top: 25.5vh !important;
+    left: 4.5rem;
+  }
+
   /* about page */
 
   .about .about-text {
@@ -523,25 +542,25 @@
     height: 0%;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(0);
     width: 55px;
     margin-top: 0;
     margin-left: 0;
     position: relative;
-    top: 38vh;
-    left: 11vh;
+    top: 3.8vh;
+    left: 0vh;
     height: 55px;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(0);
     width: 37.5px;
     position: relative;
     margin-top: unset;
     margin-left: 0;
-    top: 31.8vh;
-    left: 16vh;
+    top: 4.8vh;
+    left: 0vh;
     height: 35px;
   }
 
@@ -876,6 +895,28 @@
     padding: 0.3rem 0.5rem !important;
     padding-bottom: 1rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(0);
+    width: 55px;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+    top: 38vh;
+    left: 11vh;
+    height: 55px;
+  }
+
+  #phone-icon2 {
+    filter: brightness(0);
+    width: 37.5px;
+    position: relative;
+    margin-top: unset;
+    margin-left: 0;
+    top: 31.8vh;
+    left: 16vh;
+    height: 35px;
+  }
 }
 /* Small (sm) */
 @media (min-width: 577px) and (max-width: 768px) {
@@ -950,25 +991,25 @@
     height: 0px;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(0);
     width: 55px;
     margin-top: 0;
     margin-left: 0;
     position: relative;
-    top: 35vh;
-    left: 18vh;
+    top: 3.8vh;
+    left: 0vh;
     height: 55px;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(0);
     width: 37.5px;
     position: relative;
     margin-top: unset;
     margin-left: 0;
-    top: 28.5vh;
-    left: 23.5vh;
+    top: 4.8vh;
+    left: 0vh;
     height: 35px;
   }
 
@@ -1321,6 +1362,28 @@
     padding: 0.3rem 0.5rem !important;
     padding-bottom: 1rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(0);
+    width: 55px;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+    top: 35vh;
+    left: 18vh;
+    height: 55px;
+  }
+
+  #phone-icon2 {
+    filter: brightness(0);
+    width: 37.5px;
+    position: relative;
+    margin-top: unset;
+    margin-left: 0;
+    top: 28.5vh;
+    left: 23.5vh;
+    height: 35px;
+  }
 }
 
 /* Medium (md) */
@@ -1388,7 +1451,7 @@
     font-size: 10px;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(1);
     width: 18px;
     position: relative;
@@ -1397,7 +1460,7 @@
     height: 20px;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(1);
     width: 16px;
     height: 14px;
@@ -1756,6 +1819,24 @@
     padding: 0.3rem 0.5rem !important;
     padding-bottom: 1rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(1);
+    width: 18px;
+    position: relative;
+    top: 0.4vh;
+    left: -0.7rem;
+    height: 20px;
+  }
+
+  #phone-icon2 {
+    filter: brightness(1);
+    width: 16px;
+    height: 14px;
+    position: relative;
+    top: 0.4vh;
+    left: -0.2rem;
+  }
 }
 
 /* Large (lg) */
@@ -1821,7 +1902,7 @@
     margin-top: 8px;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(1);
     width: 28px;
     position: relative;
@@ -1829,7 +1910,7 @@
     left: -0.7rem;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(1);
     width: 22px;
     height: 19px;
@@ -2195,6 +2276,23 @@
     padding: 0.72rem 0.72rem !important;
     padding-bottom: 2rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(1);
+    width: 28px;
+    position: relative;
+    top: 0.3vh;
+    left: -0.7rem;
+  }
+
+  #phone-icon2 {
+    filter: brightness(1);
+    width: 22px;
+    height: 19px;
+    position: relative;
+    top: 0.7vh;
+    left: 0.3rem;
+  }
 }
 
 /* Extra large (xl) */
@@ -2260,7 +2358,7 @@
     margin-top: 8px;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(1);
     width: 30px;
     position: relative;
@@ -2268,7 +2366,7 @@
     left: -0.7rem;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(1);
     width: 25px;
     height: 21px;
@@ -2637,6 +2735,23 @@
     padding: 0.72rem 0.72rem !important;
     padding-bottom: 2rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(1);
+    width: 30px;
+    position: relative;
+    top: 0.5vh;
+    left: -0.7rem;
+  }
+
+  #phone-icon2 {
+    filter: brightness(1);
+    width: 25px;
+    height: 21px;
+    position: relative;
+    top: 0.9vh;
+    left: 0.3rem;
+  }
 }
 
 
@@ -2703,7 +2818,7 @@
     margin-top: 8px;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(1);
     width: 30px;
     position: relative;
@@ -2711,7 +2826,7 @@
     left: -0.7rem;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(1);
     width: 25px;
     height: 21px;
@@ -3081,6 +3196,23 @@
     padding: 0.72rem 0.72rem !important;
     padding-bottom: 2rem !important;
   }
+
+  #mail-icon2 {
+    filter: brightness(1);
+    width: 30px;
+    position: relative;
+    top: 0.5vh;
+    left: -0.7rem;
+  }
+
+  #phone-icon2 {
+    filter: brightness(1);
+    width: 25px;
+    height: 21px;
+    position: relative;
+    top: 0.9vh;
+    left: 0.3rem;
+  }
 }
 
 @media (min-width: 1600px) and (max-width: 1920px) {
@@ -3145,7 +3277,7 @@
     margin-top: 15px;
   }
 
-  #mail-icon2 {
+  #mail-icon {
     filter: brightness(1);
     width: 35px;
     position: relative;
@@ -3154,7 +3286,7 @@
     height: 35px;
   }
 
-  #phone-icon2 {
+  #phone-icon {
     filter: brightness(1);
     width: 26px;
     height: 26px;
@@ -3522,5 +3654,23 @@
     font-size: 1rem;
     padding: 0.72rem 0.72rem !important;
     padding-bottom: 2rem !important;
+  }
+
+  #mail-icon2 {
+    filter: brightness(1);
+    width: 35px;
+    position: relative;
+    top: 0.8vh;
+    left: -0.7rem;
+    height: 35px;
+  }
+
+  #phone-icon2 {
+    filter: brightness(1);
+    width: 26px;
+    height: 26px;
+    position: relative;
+    top: 1.1vh;
+    left: 0.3rem;
   }
 }
