@@ -342,7 +342,7 @@
   }
 
   .success-content h2 {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   /* News-list page*/
 
@@ -375,9 +375,6 @@
     width: 50% !important;
   }
 
-  .news-icon2 {
-  }
-
   .news-text h5,
   p {
     font-size: 0.6rem;
@@ -391,11 +388,43 @@
 
   /* about page */
 
+  .about{
+    padding: 150px 200px 50px 100px;
+  }
+
   .about .about-text {
     top: 100px;
     width: 100%;
     left: 0%;
     font-size: 0.55rem;
+  }
+
+  .align-self-start img{
+    width: 100px;
+    float: none !important;
+    margin-left: -100px;
+  }
+
+  .align-self-start p{
+    font-size: 0.6rem;
+    width: 200px !important;
+    margin-top: -6rem !important;
+    padding-bottom: 3rem;
+    margin-left: 1rem;
+  }
+
+  .align-self-end img{
+    width: 100px;
+    float: none !important;
+    margin-left: 100px;
+  }
+
+  .align-self-end p{
+    width: 200px !important;
+    margin-top: -12.7rem !important;
+    margin-left: -7rem !important;
+    padding-top: 7rem;
+    padding-bottom: 4rem;
   }
 }
 
