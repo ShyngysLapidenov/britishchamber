@@ -74,19 +74,19 @@
   
     #mail-icon {
       filter: brightness(0);
-      width: 41px;
+      width: 35px;
       position: relative;
       top: 32vh;
       left: 1.2rem;
-      height: 41px;
+      height: 35px;
     }
   
     #phone-icon {
       filter: brightness(0);
-      width: 35px;
-      height: 30px;
+      width: 26px;
+      height: 26px;
       position: relative;
-      top: 25.7vh !important;
+      top: 25.6vh !important;
       left: 4.5rem;
     }
   
@@ -156,13 +156,13 @@
     }
   
     .slider-member .news-heading {
-      top: 29%;
+      top: 33%;
       font-size: 0.9rem;
       font-weight: 650;
     }
   
     .slider-member a {
-      top: 31.3% !important;
+      top: 35.4% !important;
       text-decoration: underline;
       font-size: 0.8rem !important;
     }
@@ -285,7 +285,7 @@
   }
   
   .social {
-    margin-left: 35%;
+    margin-left: 34%;
   }
   
   .fa {
@@ -342,7 +342,7 @@
   }
   
   .success-content h2 {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   /* News-list page*/
 
@@ -433,19 +433,19 @@
 
   #mail-icon2 {
     filter: brightness(0);
-    width: 41px;
+    width: 35px;
     position: relative;
     top: 32vh;
     left: 1.2rem;
-    height: 41px;
+    height: 35px;
   }
 
   #phone-icon2 {
     filter: brightness(0);
-    width: 35px;
-    height: 30px;
+    width: 26px;
+    height: 26px;
     position: relative;
-    top: 25.5vh !important;
+    top: 25.6vh !important;
     left: 4.5rem;
   }
 
@@ -470,6 +470,10 @@
   .news-text-body{
     overflow: hidden !important;
     padding: 10px 10px 10px 10px;
+  }
+
+  .about{
+    padding: 150px 200px 50px 100px;
   }
 
   .news-text-body p{
@@ -509,7 +513,6 @@
     left: 0%;
     font-size: 0.55rem;
   }
-
 }
 
 @media only screen and (min-width: 428px) and (max-width: 576px) {
@@ -597,24 +600,24 @@
 
   #mail-icon {
     filter: brightness(0);
-    width: 55px;
+    width: 35px;
     margin-top: 0;
     margin-left: 0;
     position: relative;
     top: 3.8vh;
-    left: 0vh;
-    height: 55px;
+    left: 5vh;
+    height: 35px;
   }
 
   #phone-icon {
     filter: brightness(0);
-    width: 37.5px;
+    width: 25px;
     position: relative;
     margin-top: unset;
     margin-left: 0;
-    top: 4.8vh;
-    left: 0vh;
-    height: 35px;
+    top: 4.2vh;
+    left: 2vh;
+    height: 25px;
   }
 
   .burger {
@@ -792,7 +795,7 @@
 
 .footer-img > img {
   width: 300px;
-  margin-left: 1.5rem;
+  margin-left: 2rem;
 }
 
 .row > .col {
@@ -804,7 +807,7 @@
 }
 
 .social {
-  margin-left: 35%;
+  margin-left: 37%;
 }
 
 .fa {
@@ -818,8 +821,8 @@
 }
 
 #copyright {
-  font-size: 6px;
-  margin-left: 40%;
+  font-size: 9px;
+  margin-left: 37%;
 }
 
 .footer-h2 {
@@ -951,24 +954,24 @@
 
   #mail-icon2 {
     filter: brightness(0);
-    width: 55px;
+    width: 35px;
     margin-top: 0;
     margin-left: 0;
     position: relative;
-    top: 38vh;
-    left: 11vh;
-    height: 55px;
+    top: 3.8vh;
+    left: 5vh;
+    height: 35px;
   }
 
   #phone-icon2 {
     filter: brightness(0);
-    width: 37.5px;
+    width: 25px;
     position: relative;
     margin-top: unset;
     margin-left: 0;
-    top: 31.8vh;
-    left: 16vh;
-    height: 35px;
+    top: 4.2vh;
+    left: 2vh;
+    height: 25px;
   }
 }
 /* Small (sm) */
@@ -1046,24 +1049,24 @@
 
   #mail-icon {
     filter: brightness(0);
-    width: 55px;
+    width: 35px;
     margin-top: 0;
     margin-left: 0;
     position: relative;
     top: 3.8vh;
     left: 0vh;
-    height: 55px;
+    height: 35px;
   }
 
   #phone-icon {
     filter: brightness(0);
-    width: 37.5px;
+    width: 26px;
     position: relative;
     margin-top: unset;
     margin-left: 0;
-    top: 4.8vh;
+    top: 4.1vh;
     left: 0vh;
-    height: 35px;
+    height: 24px;
   }
 
   .nav-link {
@@ -1267,7 +1270,7 @@
   }
 
   .social {
-    margin-left: 33%;
+    margin-left: 31.5%;
   }
 
   .fa {
@@ -1418,24 +1421,24 @@
 
   #mail-icon2 {
     filter: brightness(0);
-    width: 55px;
+    width: 35px;
     margin-top: 0;
     margin-left: 0;
     position: relative;
-    top: 35vh;
-    left: 18vh;
-    height: 55px;
+    top: 3.8vh;
+    left: 0vh;
+    height: 35px;
   }
 
   #phone-icon2 {
     filter: brightness(0);
-    width: 37.5px;
+    width: 26px;
     position: relative;
     margin-top: unset;
     margin-left: 0;
-    top: 28.5vh;
-    left: 23.5vh;
-    height: 35px;
+    top: 4.1vh;
+    left: 0vh;
+    height: 24px;
   }
 }
 
@@ -1702,7 +1705,7 @@
   }
 
   .social {
-    margin-left: 130px;
+    margin-left: 117px;
   }
 
   .fa {
@@ -2156,7 +2159,7 @@
   }
 
   .social {
-    margin-left: 130px;
+    margin-left: 117px;
   }
 
   .fa {
@@ -2316,8 +2319,8 @@
     display: flex;
     width: 0.1rem;
     height: 0.3rem;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
     margin-top: 0%;
     padding-bottom: 40px;
     text-align: center;
@@ -2326,7 +2329,7 @@
 
   .page-link {
     font-size: 1rem;
-    padding: 0.72rem 0.72rem !important;
+    padding: 0.5rem 0.75rem !important;
     padding-bottom: 2rem !important;
   }
 
