@@ -506,7 +506,12 @@
     /* Здесь вы можете уменьшить размеры навигационных элементов */
     width: 200px; /* Пример, измените значение в соответствии с вашими потребностями */
   }
-  /* about page */
+
+    /* sponsor page */
+
+    .sponsor{
+      padding: 1vh; 
+      /* about page */
   .about .about-text {
     top: 100px;
     width: 100%;
@@ -514,6 +519,27 @@
     font-size: 0.55rem;
   }
 }
+
+    .sponsor h3{
+      font-size: 1.2rem;
+      padding-top: 1rem;
+    }
+
+    .sponsor-text{
+      font-size: 0.55rem;
+      padding-bottom: 1rem;
+    }
+
+    .benefits{
+      padding: 1vh;
+      padding-bottom: 3rem;
+    }
+
+    .forma{
+      padding: 1vh;
+    }
+}
+
 
 @media only screen and (min-width: 428px) and (max-width: 576px) {
   .html {
