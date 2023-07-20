@@ -483,7 +483,33 @@
     width: 200px !important;
     font-size: 0.6rem;
     }
+
+    /* sponsor page */
+
+    .sponsor{
+      padding: 1vh; 
+    }
+
+    .sponsor h3{
+      font-size: 1.2rem;
+      padding-top: 1rem;
+    }
+
+    .sponsor-text{
+      font-size: 0.55rem;
+      padding-bottom: 1rem;
+    }
+
+    .benefits{
+      padding: 1vh;
+      padding-bottom: 3rem;
+    }
+
+    .forma{
+      padding: 1vh;
+    }
 }
+
 
 @media only screen and (min-width: 428px) and (max-width: 576px) {
   .html {
