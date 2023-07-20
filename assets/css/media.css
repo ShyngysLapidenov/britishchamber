@@ -449,14 +449,67 @@
     left: 4.5rem;
   }
 
-  /* about page */
+  .news-heading-body {
+    background-image: url(/assets/images/news-main-img.png);
+    padding: 10px 10px;
+}
+  .news-heading-body h2{
+    font-size:0.8rem; 
+    width: 9rem;
+    margin-top: 0;
+    margin-left:5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align:center;
+}
+  .news-heading-body p{
+    font-size:0.5rem;
+    margin-left:3.2rem;
+  }
+  .news-text-body{
+    overflow: hidden !important;
+    padding: 10px 10px 10px 10px;
+  }
 
+  .news-text-body p{
+    font-size: 0.6rem;
+    width: 250px;
+    margin-left: 2rem;
+    white-space: pre-line;
+    overflow-wrap: break-word;
+  }
+  .showcase img{
+    position:absolute;
+    top: 19%;
+    }
+  .showcase_content{
+    margin-top: -72%;
+  }
+
+  .showcase__content-wrapper {
+    height:40%;/* Здесь вы можете уменьшить отступы или ширину, чтобы элемент занимал меньше места */
+    margin: 10px; /* Пример, измените значение в соответствии с вашими потребностями */
+  }
+
+  .showcase-carousel__item {
+    /* Здесь вы можете уменьшить размеры слайдов или отступы внутри слайдов */
+    padding: 5px; /* Пример, измените значение в соответствии с вашими потребностями */
+  }
+  
+  .showcase-navigation__prev,
+  .showcase-navigation__next {
+    /* Здесь вы можете уменьшить размеры навигационных элементов */
+    width: 200px; /* Пример, измените значение в соответствии с вашими потребностями */
+  }
+  /* about page */
   .about .about-text {
     top: 100px;
     width: 100%;
     left: 0%;
     font-size: 0.55rem;
   }
+
 }
 
 @media only screen and (min-width: 428px) and (max-width: 576px) {
